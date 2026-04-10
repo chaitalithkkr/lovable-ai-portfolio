@@ -55,5 +55,5 @@ Clearline explores who you are professionally. Mirror Mode explores who you are 
 
 Built by Chaitali during Lovable's SheBuilds — a push to go from idea to prototype quickly while thinking deeply about product, user experience, and community. ✨
 
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/chaitali-thakkar/])
+- 🔗 https://www.linkedin.com/in/chaitali-thakkar/
 - 📧 chaitalit268@gmail.com
