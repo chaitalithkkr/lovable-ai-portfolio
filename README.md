@@ -1,4 +1,4 @@
-# ai-portfolio
+# lovable-ai-portfolio
 
 A collection of AI-powered product concepts exploring career clarity and self-discovery, built during Lovable's SheBuilds hackathon for International Women's Day.
 
